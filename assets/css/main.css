@@ -423,7 +423,7 @@ input {
 
 .col5 {
     width: calc(100%/5);
-    min-height: 10vh;
+ 
 }
 
 .categories1, .categories2 {
